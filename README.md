@@ -27,3 +27,9 @@ numpy
 scikit-learn
 matplotlib
 seaborn
+
+Results:
+The machine learning model successfully classifies restaurant reviews into positive or negative sentiment categories with [insert accuracy/other performance metric here]. Insights derived from the analysis can aid restaurant owners and managers in understanding customer satisfaction levels and improving their services accordingly.
+
+Contributing:
+Contributions and feedback are welcome! Fork the repository, create pull requests, or open issues for any bugs or suggestions.
